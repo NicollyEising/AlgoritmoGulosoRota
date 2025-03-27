@@ -20,7 +20,7 @@ Este projeto é uma aplicação web para calcular o melhor caminho entre duas ci
 - Oferece suporte a CORS para permitir requisições do frontend.
 
 #### Instalação e Execução
-1. Execute o start.bat para iniciar automaticamente o backend e o frontend.
+1. Execute o start.bat para iniciar automaticamente o backend e o frontend. (pode ser necessario executar varias vezes para a funcionar)
 
 ---
 
